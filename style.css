@@ -1,0 +1,9 @@
+.container{
+  width:700px;
+  text-align: center;
+}
+hr {
+    height: 2px;
+    background-color: black;
+    border-width: 0;
+}
